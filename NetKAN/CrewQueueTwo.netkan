@@ -7,10 +7,10 @@
     }
   ],
   "depends": [
-    { "name" : "ClickThroughBlocker" },
-    { "name": "ModuleManager" }
+    {
+      "name": "ModuleManager"
+    }
   ],
-
   "conflicts": [
         { "name" : "BetterCrewAssignment" },
         { "name" : "CrewQueue" }
