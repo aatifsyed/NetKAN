@@ -1,0 +1,6 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "Knes",
+    "$kref"        : "#/ckan/spacedock/1470",
+    "license"      : "CC-BY-NC-ND-4.0"
+}
